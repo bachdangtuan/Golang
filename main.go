@@ -72,7 +72,7 @@ func forWhile()  {
 }
 
 func main() {
-	fmt.Println("Gô Lăng")
+	fmt.Println("Gô Lăng 2")
 	// forWhile()
 	// forTiepDien2()
 	// forTiepDien()
